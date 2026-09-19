@@ -104,7 +104,15 @@
 <h3>GitHub activity</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prasodium&background=5A1525&border=C9A25E&stroke=8B3A4A&ring=D8B26E&fire=D8B26E&currStreakNum=F4EBD9&sideNums=F4EBD9&currStreakLabel=D8B26E&sideLabels=F4EBD9&dates=C9A8AE&border_radius=12" alt="GitHub contribution streak" />
+  <img src="assets/activity-streak.svg" width="800" alt="GitHub streak: total contributions, current streak, and longest streak" />
+</p>
+
+<p align="center">
+  <img src="assets/activity-overview.svg" width="800" alt="Top languages and headline GitHub numbers" />
+</p>
+
+<p align="center">
+  <img src="assets/activity-graph.svg" width="800" alt="Contribution graph: contributions per week over the past year" />
 </p>
 
 <p align="center">
